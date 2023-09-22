@@ -1,4 +1,5 @@
 /* ENTRADA-LEITURA DE DADOS */
+package Aulas;
 
 import java.util.Locale;
 
@@ -32,8 +33,8 @@ public class Aula25e26 {
 		z = sc.nextDouble();
 		System.out.println();
 
-		System.out.println(" Digite seu sex: ");
-		w = sc.nextLine().charAt(0);
+		System.out.println(" Digite seu sex M/F: ");
+		w = sc.next().charAt(0);
 		System.out.println();
 
 		System.out.println("Dados digitados: ");

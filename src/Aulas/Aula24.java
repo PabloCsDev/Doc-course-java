@@ -1,4 +1,5 @@
 /* PROCESSAMENTO DE DADOS - CASTING */
+package Aulas;
 
 public class Aula24 {
     public static void main(String[] args) {

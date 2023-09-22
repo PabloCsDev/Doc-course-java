@@ -1,4 +1,5 @@
 /* FUNCOES MATEMATICAS */
+package Aulas;
 
 public class Aula27 {
 	

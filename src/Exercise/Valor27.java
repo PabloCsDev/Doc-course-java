@@ -20,7 +20,7 @@ public class Valor27 {
 		numberP1 = xp.nextInt();
 		System.out.println();
 
-		System.out.println(" Informe o valor por unidade do produto 1: ");
+		System.out.println(" Informe o valor da unidade do produto 1: ");
 		valorUniP1 = xp.nextDouble();
 		System.out.println();
 
@@ -32,7 +32,7 @@ public class Valor27 {
 		numberP2 = xp.nextInt();
 		System.out.println();
 
-		System.out.println(" Informe o valor por unidade do produto 2: ");
+		System.out.println(" Informe o valor da unidade do produto 2: ");
 		valorUniP2 = xp.nextDouble();
 		System.out.println();
 		

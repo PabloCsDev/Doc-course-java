@@ -1,4 +1,4 @@
-package Exercise;
+package ExerciciosA27;
 import java.util.Scanner;
 
 public class Soma27 {

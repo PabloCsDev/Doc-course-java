@@ -55,7 +55,7 @@ public class Aula25e26 {
 
 		String s1, s2, s3;
 		int x;
-		
+
 		System.out.println(" Digite um numero: ");
 		x = sc.nextInt();
 		sc.nextLine();

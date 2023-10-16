@@ -1,14 +1,15 @@
 package Aulas;
 
-import java.util.Scanner;
-
 public class Aula39 {
-	public static void main (String[] args) {
-		Scanner xy = new Scanner (System.in);
+	public static void main (String [] args) {
+		double preco, desconto;
+		preco = 34.5;
 		
-		
-		
-		
-		xy.close();
+		if ( preco < 20.00 ) {
+			desconto = preco * 0.1;
+		}
+		else {
+			desconto = preco * 0.05;
+		}
 	}
 }

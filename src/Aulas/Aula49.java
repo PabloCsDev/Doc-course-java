@@ -1,26 +1,20 @@
 package Aulas;
 
-import java.util.Locale;
-import java.util.Scanner;
-
 public class Aula49 {
-	public static void main (String [] args) {
-		Locale.setDefault(Locale.US);
-		Scanner xp = new Scanner (System.in);
-	
-		int N, soma;
-		soma = 0;
-		
-		System.out.println("Digite um numero: ");
-		N = xp.nextInt();
-		
-		for ( int i=0; i<N; i++) {
-			int x = xp.nextInt();
-			soma = soma + x;
+	public static void main(String[] args) {
+
+		int i, x, y;
+		x = 6;
+		y = 0;
+
+		for (i = 0; i < x; i++) {
+			System.out.println("i vale: " + i);
+			y = y + 5;
+
+			System.out.println("y vale: " + y);
 		}
 
-		System.out.println(soma);
-		
-		xp.close();
+		System.out.println("fim do programa");
+
 	}
 }

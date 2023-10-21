@@ -4,7 +4,7 @@ package aulas;
 import java.util.Locale;
 
 import java.util.Scanner;
-
+ 
 public class Aula25e26 {
 
 	public static void main(String[] args) {

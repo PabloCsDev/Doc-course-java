@@ -1,6 +1,6 @@
 /* SAIDA DE DADOS */
 package aulas;
-
+ 
 import java.util.Locale;
 
 public class Aula23 {

@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Aula43 {
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
-		Scanner xp = new Scanner (System.in);
+		Scanner xp = new Scanner(System.in);
 
 		double largura = xp.nextDouble();
 		double comprimento = xp.nextDouble();
@@ -16,7 +16,7 @@ public class Aula43 {
 		System.out.printf("AREA = %.2f%n", area);
 		System.out.printf("PRECO = %.2f%n", preco);
 
-	xp.close();
+		xp.close();
 	}
 
 }

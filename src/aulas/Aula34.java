@@ -1,8 +1,8 @@
-package aulas;
+package aulas; 
 
 import java.util.Scanner;
 
-public class Aula34 {
+public class Aula34 { 
 	public static void main(String[] args) {
 		Scanner xy = new Scanner (System.in);
 		int hora;
@@ -22,6 +22,6 @@ public class Aula34 {
 		}
 		
 		xy.close();
-	}
+	} 
 
 }

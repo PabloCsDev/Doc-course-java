@@ -1,7 +1,7 @@
 /* PROCESSAMENTO DE DADOS - CASTING */
 package aulas;
 
-public class Aula24 {
+public class Aula24 { 
 	public static void main(String[] args) {
 		exemplo1();
 		exemplo2();

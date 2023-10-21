@@ -2,7 +2,7 @@
 package aulas;
 
 public class Aula27 {
-	
+	 
 	public static void main (String[] args) {
 		
 		double x = 3.0;

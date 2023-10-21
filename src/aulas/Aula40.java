@@ -1,6 +1,6 @@
 package aulas;
 
-public class Aula40 {
+public class Aula40 { 
 	public static void main (String [] args) {
 		double preco, desconto;
 		preco = 34.5;
@@ -8,5 +8,5 @@ public class Aula40 {
 		
 		System.out.println(desconto);
 		
-	}
+	} 
 }

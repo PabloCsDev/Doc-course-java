@@ -3,17 +3,17 @@ package a64_Application;
 import java.util.Locale;
 import java.util.Scanner;
 
-import a64_Entities.Triangle;
+import a64_Entities.P01_Triangle;
 
-public class Program {
+public class Program01 {
 
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
-		Triangle x, y;
-		x = new Triangle();
-		y = new Triangle();
+		P01_Triangle x, y;
+		x = new P01_Triangle();
+		y = new P01_Triangle();
 
 		System.out.println("Digite o valor dos lados A, B e C do triangulo X: ");
 		x.a = sc.nextDouble();

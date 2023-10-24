@@ -1,6 +1,6 @@
 package a64_Entities;
 
-public class Triangle {
+public class P01_Triangle {
 
 	public double a,b,c;
 	

@@ -1,5 +1,5 @@
 package a70_Application;
-
+ 
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -11,21 +11,20 @@ public class Program02 {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		P02_Calculator calc = new P02_Calculator();
 		
 		System.out.print("Enter radius: ");
 		final double radius = sc.nextDouble();
 
-		double c = calc.circumference(radius);
+		double c = P02_Calculator.circumference(radius);
 
-		double v = calc.volume(radius);
+		double v = P02_Calculator.volume(radius);
 
 		System.out.printf("Circumference: %.2f%n", c);
 		System.out.printf("Volume: %.2f%n", v);
-		System.out.printf("PI value: %.2f%n", calc.PI);
+		System.out.printf("PI value: %.2f%n", P02_Calculator.PI);
 		
 		
-		sc.close();
+		sc.close(); 
 
 }
 }

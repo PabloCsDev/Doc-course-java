@@ -3,7 +3,6 @@ package a70_Application;
 import java.util.Locale;
 import java.util.Scanner;
 
-
 import a70_Util.P03_CurrencyConverter;
 
 public class Program03 {

@@ -3,9 +3,9 @@ package a80_Application;
 import java.util.Locale;
 import java.util.Scanner;
 
-import a80_Entities.Product;
+import a80_Entities.Product02;
 
-public class Program01 {
+public class Program02 {
 	public static void main(String[] args) {
 
 		Locale.setDefault(Locale.US);
@@ -19,15 +19,12 @@ public class Program01 {
 		System.out.print("Price: ");
 		double price = sc.nextDouble();
 
-		System.out.print("Quantity in stock: ");
-		int quantity = sc.nextInt();
-		Product product = new Product( name, price, quantity); //construtor
-
+		Product02 product = new Product02( name, price); 
 		System.out.println();
 		System.out.println("Product data: " + product);
 		System.out.println();
 		System.out.print("Enter the number of products to be added in stock: ");
-		quantity = sc.nextInt();
+		int quantity = sc.nextInt();
 		product.addProducts(quantity);
 
 		System.out.println();

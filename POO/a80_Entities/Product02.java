@@ -1,14 +1,24 @@
 package a80_Entities;
 
-public class Product {
+public class Product02 {
 	public String name;
 	public double price;
 	public int quantity;
 	
-	public Product(String name, double price, int quantity) {
+	
+	public Product02 () {
+		
+	}
+	
+	public Product02(String name, double price, int quantity) {
 		this.name = name;
 		this.price = price;
 		this.quantity = quantity;
+	}
+	
+	public Product02(String name, double price) {
+		this.name = name;
+		this.price = price;
 	}
 
 	public double totalValueInStock() {
@@ -27,5 +37,6 @@ public class Product {
 		return name + ", $ " + String.format("%.2f", price) + ", " + quantity + " units, Total: $ "
 				+ String.format("%.2f", totalValueInStock());
 	}
+
 
 }

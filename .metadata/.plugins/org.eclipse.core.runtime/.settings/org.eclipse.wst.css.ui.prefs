@@ -4,6 +4,7 @@ ATTRIBUTE_NAME=\#FFFFFF | null | null | null | null | null
 ATTRIBUTE_OPERATOR=\#FFFFFF | null | null | null | null | null
 ATTRIBUTE_VALUE=\#FFFFFF | null | null | null | null | null
 CLASS=\#FFFFFF | null | null | null | null | null
+<<<<<<< HEAD
 COLON=\#D8D8D8 | null | null | null | null | null
 COMBINATOR=\#FFFFFF | null | null | null | null | null
 COMMENT=\#C7DD0C | null | null | false | null | null
@@ -21,3 +22,21 @@ UNIVERSAL=\#FFFFFF | null | null | null | null | null
 URI=\#FFC600 | null | null | null | null | null
 eclipse.preferences.version=1
 overriddenByCSS=,ATTRIBUTE_DELIM,UNIVERSAL,ATTRIBUTE_VALUE,COLON,CLASS,PSEUDO,PROPERTY_VALUE,URI,PROPERTY_NAME,COMMENT,CURLY_BRACE,ATTRIBUTE_NAME,ATMARK_RULE,COMBINATOR,SELECTOR,STRING,MEDIA,SEMI_COLON,ID,NORMAL,ATTRIBUTE_OPERATOR,
+=======
+COLON=\#F8F8F2 | null | null | null | null | null
+COMBINATOR=\#FFFFFF | null | null | null | null | null
+COMMENT=\#75715E | null | null | false | null | null
+CURLY_BRACE=\#D8D8D8 | null | null | null | null | null
+ID=\#FFFFFF | null | null | null | null | null
+MEDIA=\#66CCB3 | null | null | null | null | null
+NORMAL=\#F8F8F2 | null | null | null | null | null
+PROPERTY_NAME=\#BED6FF | null | null | null | null | null
+PROPERTY_VALUE=\#E6DB74 | null | null | null | null | null
+PSEUDO=\#FFFFFF | null | null | null | null | null
+SELECTOR=\#FFFFFF | null | null | null | null | null
+SEMI_COLON=\#F8F8F2 | null | null | null | null | null
+STRING=\#E6DB74 | null | null | null | null | null
+UNIVERSAL=\#FFFFFF | null | null | null | null | null
+URI=\#E6DB74 | null | null | null | null | null
+eclipse.preferences.version=1
+>>>>>>> 936c187 (x)

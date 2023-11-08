@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 GitRepositoriesView.GitDirectories=/home/kira/Documentos/projetos/ApprovalChecker/ApprovalChecker/.git\:
 GitRepositoriesView.GitDirectories.relative=/home/kira/Documentos/projetos/ApprovalChecker/ApprovalChecker/.git\:
+=======
+GitRepositoriesView.GitDirectories=/home/kira/git/Doc-course-java/.git\:
+GitRepositoriesView.GitDirectories.relative=/home/kira/git/Doc-course-java/.git\:
+>>>>>>> 936c187 (x)
 eclipse.preferences.version=1

@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 eclipse.preferences.version=1
 native-borders=false
 overriddenByCSS=,native-borders,
+=======
+CatalogDescriptor=https\://marketplace.eclipse.org
+eclipse.preferences.version=1
+>>>>>>> 936c187 (x)

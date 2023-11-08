@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
+<<<<<<< HEAD
     <entry loc="/home/kira/Documentos/eclipse-java-2023-06-R-linux-gtk-x86_64/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.7.v20230425-1502" stamp="1686234065000"/>
     <entry loc="/home/kira/Documentos/eclipse-java-2023-06-R-linux-gtk-x86_64/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.7.v20230425-1502/jre" stamp="1686234065000"/>
+=======
+    <entry loc="/usr/lib/jvm/java-8-openjdk-amd64" stamp="1699472981716"/>
+    <entry loc="/usr/lib/jvm/java-19-openjdk-amd64" stamp="1699473274804"/>
+>>>>>>> 936c187 (x)
 </dirs>

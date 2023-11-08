@@ -1,7 +1,13 @@
 cdataBorder=\#FFFFFF | null | null | null | null | null
+<<<<<<< HEAD
 cdataText=\#D8D8D8 | null | null | null | null | null
 commentBorder=\#C7DD0C | null | null | false | null | null
 commentText=\#C7DD0C | null | null | false | null | null
+=======
+cdataText=\#F8F8F2 | null | null | null | null | null
+commentBorder=\#75715E | null | null | false | null | null
+commentText=\#75715E | null | null | false | null | null
+>>>>>>> 936c187 (x)
 declBoder=\#FFFFFF | null | null | null | null | null
 declBorder=\#FFFFFF | null | null | null | null | null
 doctypeExternalId=\#FFFFFF | null | null | null | null | null
@@ -9,6 +15,7 @@ doctypeExternalPubref=\#FFFFFF | null | null | null | null | null
 doctypeExtrenalSysref=\#FFFFFF | null | null | null | null | null
 doctypeName=\#FFFFFF | null | null | null | null | null
 eclipse.preferences.version=1
+<<<<<<< HEAD
 entityReference=\#8DCBE2 | null | null | null | null | null
 overriddenByCSS=,doctypeExternalPubref,declBorder,tagBorder,cdataText,declBoder,piBorder,doctypeExtrenalSysref,tagName,commentText,doctypeExternalId,doctypeName,tagAttributeValue,tagAttributeEquals,entityReference,commentBorder,tagAttributeName,piContent,cdataBorder,xmlContent,
 piBorder=\#FFFFFF | null | null | null | null | null
@@ -19,3 +26,14 @@ tagAttributeValue=\#FFC600 | null | null | null | null | null
 tagBorder=\#79ABFF | null | null | null | null | null
 tagName=\#BED6FF | null | null | null | null | null
 xmlContent=\#D8D8D8 | null | null | null | null | null
+=======
+entityReference=\#66CCB3 | null | null | null | null | null
+piBorder=\#FFFFFF | null | null | null | null | null
+piContent=\#F8F8F2 | null | null | null | null | null
+tagAttributeEquals=\#F8F8F2 | null | null | null | null | null
+tagAttributeName=\#BED6FF | null | null | null | null | null
+tagAttributeValue=\#E6DB74 | null | null | null | null | null
+tagBorder=\#79ABFF | null | null | null | null | null
+tagName=\#BED6FF | null | null | null | null | null
+xmlContent=\#F8F8F2 | null | null | null | null | null
+>>>>>>> 936c187 (x)

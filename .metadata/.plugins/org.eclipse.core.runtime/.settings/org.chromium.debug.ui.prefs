@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 color_comment=199,221,12
 color_doc=204,223,50
 color_keyword=141,203,226
@@ -6,3 +7,12 @@ color_number=127,179,71
 color_string=255,198,0
 eclipse.preferences.version=1
 overriddenByCSS=,color_normal,color_string,color_number,color_comment,color_doc,color_keyword,
+=======
+color_comment=117,113,94
+color_doc=117,113,94
+color_keyword=102,204,179
+color_normal=248,248,242
+color_number=127,179,71
+color_string=230,219,116
+eclipse.preferences.version=1
+>>>>>>> 936c187 (x)

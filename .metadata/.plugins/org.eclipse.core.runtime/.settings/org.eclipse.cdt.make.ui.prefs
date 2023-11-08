@@ -1,4 +1,5 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 org.eclipse.cdt.make.ui.editor.comment=199,221,12
 org.eclipse.cdt.make.ui.editor.default=216,216,216
 org.eclipse.cdt.make.ui.editor.function=255,255,255
@@ -6,3 +7,11 @@ org.eclipse.cdt.make.ui.editor.keyword=141,203,226
 org.eclipse.cdt.make.ui.editor.macro_def=190,214,255
 org.eclipse.cdt.make.ui.editor.macro_ref=190,214,255
 overriddenByCSS=,org.eclipse.cdt.make.ui.editor.comment,org.eclipse.cdt.make.ui.editor.macro_ref,org.eclipse.cdt.make.ui.editor.macro_def,org.eclipse.cdt.make.ui.editor.default,org.eclipse.cdt.make.ui.editor.function,org.eclipse.cdt.make.ui.editor.keyword,
+=======
+org.eclipse.cdt.make.ui.editor.comment=117,113,94
+org.eclipse.cdt.make.ui.editor.default=248,248,242
+org.eclipse.cdt.make.ui.editor.function=255,255,255
+org.eclipse.cdt.make.ui.editor.keyword=102,204,179
+org.eclipse.cdt.make.ui.editor.macro_def=190,214,255
+org.eclipse.cdt.make.ui.editor.macro_ref=190,214,255
+>>>>>>> 936c187 (x)

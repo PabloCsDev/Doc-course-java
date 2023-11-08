@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 backgroundColor=25,29,31
 commentColor=199,221,12
 eclipse.preferences.version=1
@@ -5,3 +6,11 @@ keyColor=216,216,216
 overriddenByCSS=,separatorColor,backgroundColor,keyColor,commentColor,valueColor,
 separatorColor=216,216,216
 valueColor=255,198,0
+=======
+backgroundColor=39,40,34
+commentColor=117,113,94
+eclipse.preferences.version=1
+keyColor=248,248,242
+separatorColor=248,248,242
+valueColor=230,219,116
+>>>>>>> 936c187 (x)

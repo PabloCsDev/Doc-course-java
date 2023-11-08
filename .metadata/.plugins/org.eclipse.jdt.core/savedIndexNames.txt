@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 INDEX VERSION 1.134+/home/kira/Documentos/x/Doc-course-java/.metadata/.plugins/org.eclipse.jdt.core
 1638234415.index
 1271913443.index
+=======
+INDEX VERSION 1.134+/home/kira/Documentos/projetos/doc-java/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+2234132418.index
+519306738.index
+>>>>>>> 936c187 (x)

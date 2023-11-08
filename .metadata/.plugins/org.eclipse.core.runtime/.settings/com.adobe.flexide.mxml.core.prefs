@@ -1,4 +1,5 @@
 asASDocBold=false
+<<<<<<< HEAD
 asASDocColor=\#CCDF32
 asASDocItalic=false
 asASDocStrikethrough=false
@@ -6,11 +7,19 @@ asASDocUnderline=false
 eclipse.preferences.version=1
 mxmlCommentBold=false
 mxmlCommentColor=\#C7DD0C
+=======
+asASDocColor=\#75715E
+asASDocItalic=false
+eclipse.preferences.version=1
+mxmlCommentBold=false
+mxmlCommentColor=\#75715E
+>>>>>>> 936c187 (x)
 mxmlCommentItalic=false
 mxmlCommentStrikethrough=false
 mxmlCommentUnderline=false
 mxmlComponentTagBold=false
 mxmlComponentTagColor=\#BED6FF
+<<<<<<< HEAD
 mxmlComponentTagItalic=false
 mxmlComponentTagStrikethrough=false
 mxmlComponentTagUnderline=false
@@ -22,6 +31,11 @@ mxmlProcessingInstructionUnderline=false
 mxmlStringBold=false
 mxmlStringColor=\#FFC600
 mxmlStringItalic=false
+=======
+mxmlProcessingInstructionBold=true
+mxmlProcessingInstructionColor=\#FFFFFF
+mxmlStringColor=\#E6DB74
+>>>>>>> 936c187 (x)
 mxmlStringStrikethrough=false
 mxmlStringUnderline=false
 mxmlTagBold=false
@@ -29,9 +43,13 @@ mxmlTagColor=\#79ABFF
 mxmlTagItalic=false
 mxmlTagStrikethrough=false
 mxmlTagUnderline=false
+<<<<<<< HEAD
 mxmlTextBold=false
 mxmlTextColor=\#D8D8D8
 mxmlTextItalic=false
 mxmlTextStrikethrough=false
 mxmlTextUnderline=false
 overriddenByCSS=,mxmlProcessingInstructionStrikethrough,mxmlProcessingInstructionBold,mxmlTextBold,mxmlComponentTagStrikethrough,mxmlTextUnderline,asASDocItalic,mxmlProcessingInstructionUnderline,mxmlTagColor,asASDocColor,mxmlCommentStrikethrough,mxmlComponentTagItalic,mxmlCommentItalic,mxmlTagUnderline,mxmlComponentTagBold,mxmlStringColor,mxmlTagBold,mxmlProcessingInstructionItalic,mxmlStringBold,mxmlStringUnderline,mxmlTextStrikethrough,mxmlCommentUnderline,mxmlStringItalic,asASDocUnderline,mxmlProcessingInstructionColor,mxmlStringStrikethrough,mxmlComponentTagColor,asASDocBold,mxmlTagStrikethrough,mxmlTextColor,mxmlTextItalic,mxmlTagItalic,asASDocStrikethrough,mxmlComponentTagUnderline,mxmlCommentColor,mxmlCommentBold,
+=======
+mxmlTextColor=\#F8F8F2
+>>>>>>> 936c187 (x)

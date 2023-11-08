@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AbstractTextEditor.Color.Background=25,29,31
 AbstractTextEditor.Color.Background.SystemDefault=false
 AbstractTextEditor.Color.BackgroundBold=false
@@ -33,10 +34,39 @@ literal2Color=255,198,0
 literal2ColorBold=false
 markupColor=216,216,216
 markupColorBold=false
+=======
+AbstractTextEditor.Color.Background=39,40,34
+AbstractTextEditor.Color.Background.SystemDefault=false
+AbstractTextEditor.Color.Foreground=248,248,242
+AbstractTextEditor.Color.Foreground.SystemDefault=false
+bookmarkIndicationColor=217,229,119
+bookmarkIndicationColorBold=true
+comment1Color=117,113,94
+comment1ColorBold=false
+comment2Color=117,113,94
+comment2ColorBold=false
+currentLineColor=62,61,50
+eclipse.preferences.version=1
+errorIndicationColor=255,255,255
+functionColor=255,255,255
+functionColorBold=true
+invalidColor=248,248,242
+invalidColorBold=false
+keyword1Color=102,204,179
+keyword1ColorBold=false
+keyword2Color=255,255,255
+keyword2ColorBold=true
+labelColor=248,248,242
+lineNumberColor=248,248,242
+literal1Color=230,219,116
+literal2Color=230,219,116
+markupColor=248,248,242
+>>>>>>> 936c187 (x)
 numberColor=127,179,71
 numberColorBold=false
 operatorColor=216,216,216
 operatorColorBold=false
+<<<<<<< HEAD
 othersIndicationColor=216,216,216
 othersIndicationColorBold=false
 overriddenByCSS=,taskIndicationColorBold,AbstractTextEditor.Color.Background.SystemDefault,lineNumberColorBold,bookmarkIndicationColor,literal2ColorBold,errorIndicationColorBold,comment1ColorBold,literal1Color,othersIndicationColorBold,operatorColorBold,AbstractTextEditor.Color.BackgroundBold,currentLineColor,othersIndicationColor,taskIndicationColor,currentLineColorBold,warningIndicationColorBold,markupColor,labelColorBold,AbstractTextEditor.Color.Background,literal2Color,keyword1Color,AbstractTextEditor.Color.Foreground,keyword1ColorBold,AbstractTextEditor.Color.Foreground.SystemDefault,searchResultIndicationColor,functionColor,operatorColor,invalidColorBold,searchResultIndicationColorBold,variableColorBold,comment1Color,printMarginColorBold,lineNumberColor,functionColorBold,warningIndicationColor,comment2Color,comment2ColorBold,keyword2Color,bookmarkIndicationColorBold,literal1ColorBold,numberColorBold,AbstractTextEditor.Color.ForegroundBold,printMarginColor,variableColor,labelColor,keyword2ColorBold,markupColorBold,invalidColor,numberColor,errorIndicationColor,
@@ -50,3 +80,13 @@ variableColor=121,171,255
 variableColorBold=false
 warningIndicationColor=255,198,0
 warningIndicationColorBold=false
+=======
+othersIndicationColor=248,248,242
+printMarginColor=248,248,242
+searchResultIndicationColor=216,216,216
+taskIndicationColor=204,223,50
+taskIndicationColorBold=true
+variableColor=121,171,255
+variableColorBold=false
+warningIndicationColor=230,219,116
+>>>>>>> 936c187 (x)

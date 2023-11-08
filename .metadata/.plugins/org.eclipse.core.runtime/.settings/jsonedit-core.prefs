@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 defaultColor=216,216,216
 eclipse.preferences.version=1
 nullColor=216,216,216
 overriddenByCSS=,defaultColor,nullColor,stringColor,valueColor,
 stringColor=255,198,0
+=======
+defaultColor=248,248,242
+eclipse.preferences.version=1
+nullColor=248,248,242
+stringColor=230,219,116
+>>>>>>> 936c187 (x)
 valueColor=190,214,255

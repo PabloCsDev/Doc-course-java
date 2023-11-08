@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //editor/colors/arrowcolor=216,216,216
 //editor/colors/arrowstyle=0
 //editor/colors/atomcolor=216,216,216
@@ -22,3 +23,28 @@
 //editor/colors/variablestyle=0
 eclipse.preferences.version=1
 overriddenByCSS=,editor/colors/integercolor,editor/colors/floatcolor,editor/colors/keywordcolor,editor/colors/stringcolor,editor/colors/macrostyle,editor/colors/atomcolor,editor/colors/commentstyle,editor/colors/arrowstyle,editor/colors/arrowcolor,editor/colors/defaultcolor,editor/colors/keywordstyle,editor/colors/macrocolor,editor/colors/floatstyle,editor/colors/charcolor,editor/colors/stringstyle,editor/colors/integerstyle,editor/colors/charstyle,editor/colors/variablecolor,editor/colors/variablestyle,editor/colors/commentcolor,editor/colors/defaultstyle,editor/colors/atomstyle,
+=======
+eclipse.preferences.version=1
+editor/colors/arrow/color=216,216,216
+editor/colors/arrow/style=0
+editor/colors/atom/color=248,248,242
+editor/colors/atom/style=0
+editor/colors/char/color=230,219,116
+editor/colors/char/style=0
+editor/colors/comment/color=117,113,94
+editor/colors/comment/style=0
+editor/colors/default/color=216,216,216
+editor/colors/default/style=0
+editor/colors/float/color=127,179,71
+editor/colors/float/style=0
+editor/colors/integer/color=127,179,71
+editor/colors/integer/style=0
+editor/colors/keyword/color=102,204,179
+editor/colors/keyword/style=0
+editor/colors/macro/color=239,181,113
+editor/colors/macro/style=0
+editor/colors/string/color=230,219,116
+editor/colors/string/style=0
+editor/colors/variable/color=121,171,255
+editor/colors/variable/style=0
+>>>>>>> 936c187 (x)

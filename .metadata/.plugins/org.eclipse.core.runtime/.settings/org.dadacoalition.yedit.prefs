@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 colorAliasPreferences=216,216,216
 colorAnchorPreferences=216,216,216
 colorCommentPreference=199,221,12
@@ -10,3 +11,16 @@ colorScalarPreference=255,198,0
 colorTagPropertyPreferences=216,216,216
 eclipse.preferences.version=1
 overriddenByCSS=,colorDocumentPreference,colorDefaultPreference,colorTagPropertyPreferences,colorKeyPreference,colorFlowCharacterPreferences,colorAliasPreferences,colorAnchorPreferences,colorCommentPreference,colorConstantPreferences,colorScalarPreference,
+=======
+colorAliasPreferences=248,248,242
+colorAnchorPreferences=248,248,242
+colorCommentPreference=117,113,94
+colorConstantPreferences=255,255,255
+colorDefaultPreference=248,248,242
+colorDocumentPreference=248,248,242
+colorFlowCharacterPreferences=248,248,242
+colorKeyPreference=255,255,255
+colorScalarPreference=230,219,116
+colorTagPropertyPreferences=248,248,242
+eclipse.preferences.version=1
+>>>>>>> 936c187 (x)

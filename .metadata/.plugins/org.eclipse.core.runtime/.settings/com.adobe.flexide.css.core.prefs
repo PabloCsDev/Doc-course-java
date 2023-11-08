@@ -1,9 +1,14 @@
 cssCommentBold=false
+<<<<<<< HEAD
 cssCommentColor=\#C7DD0C
+=======
+cssCommentColor=\#75715E
+>>>>>>> 936c187 (x)
 cssCommentItalic=false
 cssCommentStrikethrough=false
 cssCommentUnderline=false
 cssFontFaceBold=false
+<<<<<<< HEAD
 cssFontFaceColor=\#8DCBE2
 cssFontFaceItalic=false
 cssFontFaceStrikethrough=false
@@ -31,6 +36,26 @@ cssPropertyNameUnderline=false
 cssPropertyValueBold=false
 cssPropertyValueColor=\#FFC600
 cssPropertyValueItalic=false
+=======
+cssFontFaceColor=\#66CCB3
+cssFontFaceItalic=true
+cssFontFaceStrikethrough=false
+cssFontFaceUnderline=false
+cssImportBold=false
+cssImportColor=\#66CCB3
+cssImportItalic=true
+cssImportStrikethrough=false
+cssImportUnderline=false
+cssMediaBold=false
+cssMediaColor=\#66CCB3
+cssMediaItalic=true
+cssMediaStrikethrough=false
+cssMediaUnderline=false
+cssNamespaceColor=\#F8F8F2
+cssPropertyNameBold=false
+cssPropertyNameColor=\#BED6FF
+cssPropertyValueColor=\#E6DB74
+>>>>>>> 936c187 (x)
 cssPropertyValueStrikethrough=false
 cssPropertyValueUnderline=false
 cssSelectorBold=false
@@ -38,6 +63,7 @@ cssSelectorColor=\#79ABFF
 cssSelectorItalic=false
 cssSelectorStrikethrough=false
 cssSelectorUnderline=false
+<<<<<<< HEAD
 cssStringBold=false
 cssStringColor=\#FFC600
 cssStringItalic=false
@@ -55,3 +81,15 @@ cssTextStrikethrough=false
 cssTextUnderline=false
 eclipse.preferences.version=1
 overriddenByCSS=,cssNamespaceStrikethrough,cssImportBold,cssFontFaceBold,cssPropertyValueItalic,cssTextColor,cssStringColor,cssSymbolColor,cssSelectorItalic,cssTextStrikethrough,cssMediaItalic,cssStringItalic,cssStringUnderline,cssStringBold,cssStringStrikethrough,cssPropertyNameStrikethrough,cssMediaBold,cssImportItalic,cssCommentBold,cssNamespaceItalic,cssPropertyValueBold,cssTextUnderline,cssFontFaceItalic,cssSymbolStrikethrough,cssMediaStrikethrough,cssPropertyNameItalic,cssCommentStrikethrough,cssNamespaceColor,cssImportUnderline,cssPropertyValueColor,cssMediaColor,cssTextBold,cssFontFaceStrikethrough,cssMediaUnderline,cssSelectorStrikethrough,cssPropertyNameBold,cssNamespaceUnderline,cssSelectorColor,cssImportColor,cssPropertyValueStrikethrough,cssFontFaceColor,cssCommentColor,cssImportStrikethrough,cssCommentItalic,cssSymbolItalic,cssPropertyValueUnderline,cssTextItalic,cssNamespaceBold,cssCommentUnderline,cssSymbolUnderline,cssPropertyNameColor,cssFontFaceUnderline,cssSelectorUnderline,cssPropertyNameUnderline,cssSelectorBold,cssSymbolBold,
+=======
+cssStringColor=\#E6DB74
+cssStringStrikethrough=false
+cssStringUnderline=false
+cssSymbolBold=false
+cssSymbolColor=\#66CCB3
+cssSymbolItalic=true
+cssSymbolStrikethrough=false
+cssSymbolUnderline=false
+cssTextColor=\#F8F8F2
+eclipse.preferences.version=1
+>>>>>>> 936c187 (x)

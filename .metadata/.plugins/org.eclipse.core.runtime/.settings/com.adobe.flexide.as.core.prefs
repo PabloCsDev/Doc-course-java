@@ -1,4 +1,5 @@
 asASDocBold=false
+<<<<<<< HEAD
 asASDocColor=\#CCDF32
 asASDocItalic=false
 asASDocStrikethrough=false
@@ -63,10 +64,44 @@ asTraceColor=\#BED6FF
 asTraceItalic=false
 asTraceStrikethrough=false
 asTraceUnderline=false
+=======
+asASDocColor=\#75715E
+asASDocItalic=false
+asBracketBold=false
+asBracketColor=\#D8D8D8
+asClassColor=\#FFFFFF
+asCommentBold=false
+asCommentColor=\#75715E
+asCommentItalic=false
+asCommentStrikethrough=false
+asCommentUnderline=false
+asFunctionBold=true
+asFunctionColor=\#FFFFFF
+asInterfaceColor=\#D197D9
+asMetadataBold=false
+asMetadataColor=\#FFFFFF
+asOperatorBold=false
+asOperatorColor=\#D8D8D8
+asPackageColor=\#D197D9
+asReservedBold=false
+asReservedColor=\#66CCB3
+asReservedItalic=true
+asReservedStrikethrough=false
+asReservedUnderline=false
+asStringColor=\#E6DB74
+asStringStrikethrough=false
+asStringUnderline=false
+asTextColor=\#F8F8F2
+asTraceBold=false
+asTraceColor=\#BED6FF
+>>>>>>> 936c187 (x)
 asVarBold=false
 asVarColor=\#79ABFF
 asVarItalic=false
 asVarStrikethrough=false
 asVarUnderline=false
 eclipse.preferences.version=1
+<<<<<<< HEAD
 overriddenByCSS=,asCommentUnderline,asCommentColor,asStringColor,asReservedItalic,asBracketBold,asCommentStrikethrough,asVarColor,asOperatorUnderline,asStringStrikethrough,asTextColor,asStringItalic,asStringBold,asVarStrikethrough,asOperatorColor,asVarUnderline,asTextUnderline,asClassColor,asReservedColor,asMetadataStrikethrough,asPackageUnderline,asTextItalic,asMetadataUnderline,asCommentItalic,asPackageItalic,asTraceUnderline,asFunctionUnderline,asTextBold,asOperatorBold,asASDocStrikethrough,asVarItalic,asTraceStrikethrough,asCommentBold,asTraceColor,asASDocItalic,asPackageColor,asBracketUnderline,asInterfaceBold,asASDocColor,asFunctionItalic,asInterfaceColor,asPackageBold,asInterfaceStrikethrough,asClassItalic,asPackageStrikethrough,asFunctionBold,asClassStrikethrough,asStringUnderline,asMetadataColor,asTraceBold,asVarBold,asFunctionStrikethrough,asASDocUnderline,asFunctionColor,asTraceItalic,asClassUnderline,asInterfaceUnderline,asOperatorItalic,asOperatorStrikethrough,asBracketColor,asClassBold,asReservedUnderline,asASDocBold,asReservedStrikethrough,asTextStrikethrough,asMetadataBold,asMetadataItalic,asBracketItalic,asReservedBold,asInterfaceItalic,asBracketStrikethrough,
+=======
+>>>>>>> 936c187 (x)

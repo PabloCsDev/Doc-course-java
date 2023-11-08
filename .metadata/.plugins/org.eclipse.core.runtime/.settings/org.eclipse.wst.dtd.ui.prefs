@@ -1,10 +1,21 @@
+<<<<<<< HEAD
 dtdComment=\#C7DD0C | null | null | false | null | null
 dtdData=\#D8D8D8 | null | null | null | null | null
 dtdDefault=\#D8D8D8 | null | null | null | null | null
 dtdKeyword=\#8DCBE2 | null | null | null | null | null
 dtdString=\#FFC600 | null | null | null | null | null
+=======
+dtdComment=\#75715E | null | null | false | null | null
+dtdData=\#F8F8F2 | null | null | null | null | null
+dtdDefault=\#F8F8F2 | null | null | null | null | null
+dtdKeyword=\#66CCB3 | null | null | null | null | null
+dtdString=\#E6DB74 | null | null | null | null | null
+>>>>>>> 936c187 (x)
 dtdSymbol=\#BED6FF | null | null | null | null | null
 dtdTag=\#BED6FF | null | null | null | null | null
 dtdTagName=\#BED6FF | null | null | null | null | null
 eclipse.preferences.version=1
+<<<<<<< HEAD
 overriddenByCSS=,dtdKeyword,dtdTag,dtdString,dtdTagName,dtdDefault,dtdData,dtdSymbol,dtdComment,
+=======
+>>>>>>> 936c187 (x)

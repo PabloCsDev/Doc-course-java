@@ -40,6 +40,9 @@ public class Account {
 		balance -= amount + 5.0;
 	}
 
+	public void static (double amount ) {
+										
+	}
 	public String toString() {
 		return "Account " + number + ", holder: " + holder + ", Balance: $" + String.format("%.2f", balance);
 
